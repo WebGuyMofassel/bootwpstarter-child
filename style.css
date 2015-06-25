@@ -1,0 +1,23 @@
+/*
+Theme Name: Boot WP Starter Child Theme
+Theme URI: http://yoursiteurl.com
+Author: Md Mofassel Hossain
+Author URI: http://mofassel.me
+Description: A child theme of Boot WP Starter Theme built for yoursiteurl.com
+Template: bootwpstarter
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bootwpstarter
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+
+This theme is based on Boot WP Starter Theme. Like WordPress, it is licensed under the GPL. Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/********************************************************************
+* Write your custom css bellow this line
+********************************************************************/
+
+body {
+	background: red;
+}
